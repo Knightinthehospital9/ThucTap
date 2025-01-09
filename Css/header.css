@@ -1,0 +1,67 @@
+.navbar {
+    background-color: #f8f9fa;
+}
+
+.navbar-brand img {
+    width: 150px;
+}
+
+.btn-outline-dark {
+    border: none;
+    background-color: transparent;
+}
+
+.btn-outline-dark svg {
+    width: 24px;
+    height: 24px;
+}
+
+.custom-nav-arrows {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.custom-nav-arrows button {
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
+.custom-nav-arrows svg {
+    width: 24px;
+    height: 24px;
+    color: #6c757d;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: black;
+    /* Màu mặc định của chữ */
+    position: relative;
+    display: inline-block;
+    transition: color 0.3s ease;
+}
+
+/* Đường gạch chân hiệu ứng */
+.nav-link::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background-color: red;
+    transition: width 0.3s ease;
+}
+
+/* Hiệu ứng khi hover */
+.nav-link:hover {
+    color: red;
+    /* Chữ đổi thành màu đỏ */
+}
+
+.nav-link:hover::after {
+    width: 100%;
+    /* Gạch chân kéo dài toàn bộ chữ */
+}
