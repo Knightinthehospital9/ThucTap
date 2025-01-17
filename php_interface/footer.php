@@ -1,6 +1,6 @@
 <footer class="footer text-bg-warning mt-3 py-5">
     <div class="container-fluid">
-        <div class="row">
+        <div class="row mx-5">
             <div class="col-lg-3">
                 <div class="footer-block footer-click">
 
@@ -10,40 +10,40 @@
                     </a>
 
                     <div class="single-contact d-flex">
-                        <i>
+                        <i class="me-2">
                             <svg xmlns="http://www.w3.org/2000/svg" height="16px" viewBox="0 0 384 512">
                                 <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.-->
                                 <path
                                     d="M215.7 499.2C267 435 384 279.4 384 192C384 86 298 0 192 0S0 86 0 192c0 87.4 117 243 168.3 307.2c12.3 15.3 35.1 15.3 47.4 0zM192 128a64 64 0 1 1 0 128 64 64 0 1 1 0-128z" />
                             </svg>
                         </i>
-                        <div class="content ms-2">Địa chỉ:
+                        <div class="content small2">Địa chỉ:
                             <span>150/8 Nguyễn Duy Cung, Phường 12, Tp.HCM</span>
 
                         </div>
                     </div>
                     <div class="single-contact d-flex">
-                        <i>
+                        <i class="me-2">
                             <svg xmlns="http://www.w3.org/2000/svg" height="16px" viewBox="0 0 512 512">
                                 <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.-->
                                 <path
                                     d="M164.9 24.6c-7.7-18.6-28-28.5-47.4-23.2l-88 24C12.1 30.2 0 46 0 64C0 311.4 200.6 512 448 512c18 0 33.8-12.1 38.6-29.5l24-88c5.3-19.4-4.6-39.7-23.2-47.4l-96-40c-16.3-6.8-35.2-2.1-46.3 11.6L304.7 368C234.3 334.7 177.3 277.7 144 207.3L193.3 167c13.7-11.2 18.4-30 11.6-46.3l-40-96z" />
                             </svg>
                         </i>
-                        <div class="content ms-2">
+                        <div class="content small2">
                             Số điện thoại: <a class="link text-decoration-none text-black " title="0999999999"
                                 href="tel:0999999999">0999999999</a>
                         </div>
                     </div>
                     <div class="single-contact d-flex">
-                        <i>
+                        <i class="me-2">
                             <svg xmlns="http://www.w3.org/2000/svg" height="16px" viewBox="0 0 512 512">
                                 <!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.-->
                                 <path
                                     d="M64 112c-8.8 0-16 7.2-16 16l0 22.1L220.5 291.7c20.7 17 50.4 17 71.1 0L464 150.1l0-22.1c0-8.8-7.2-16-16-16L64 112zM48 212.2L48 384c0 8.8 7.2 16 16 16l384 0c8.8 0 16-7.2 16-16l0-171.8L322 328.8c-38.4 31.5-93.7 31.5-132 0L48 212.2zM0 128C0 92.7 28.7 64 64 64l384 0c35.3 0 64 28.7 64 64l0 256c0 35.3-28.7 64-64 64L64 448c-35.3 0-64-28.7-64-64L0 128z" />
                             </svg>
                         </i>
-                        <div class="content ms-2">
+                        <div class="content small2">
                             Email: <a title="support@egany.com" class="link text-decoration-none text-black "
                                 href="mailto:support@egany.com">support@egany.com</a>
                         </div>
@@ -74,24 +74,24 @@
                             <ul class="list-menu toggle-mn p-0 m-0">
 
                                 <li class="li_menu list-unstyled">
-                                    <a class="link text-decoration-none text-black d-block" href="/search"
+                                    <a class="link text-decoration-none text-black d-block p-1 small" href="/search"
                                         title="Tìm kiếm">Tìm kiếm</a>
                                 </li>
 
                                 <li class="li_menu list-unstyled">
-                                    <a class="link text-decoration-none text-black d-block" href="/pages/tu-van-qua-tet"
-                                        title="Câu hỏi thường gặp">Câu hỏi
+                                    <a class="link text-decoration-none text-black d-block p-1 small"
+                                        href="/pages/tu-van-qua-tet" title="Câu hỏi thường gặp">Câu hỏi
                                         thường gặp</a>
                                 </li>
 
                                 <li class="li_menu list-unstyled">
-                                    <a class="link text-decoration-none text-black d-block" href="/collections/all"
-                                        title="Tất cả sản phẩm">Tất cả sản
+                                    <a class="link text-decoration-none text-black d-block p-1 small"
+                                        href="/collections/all" title="Tất cả sản phẩm">Tất cả sản
                                         phẩm</a>
                                 </li>
 
                                 <li class="li_menu list-unstyled">
-                                    <a class="link text-decoration-none text-black d-block"
+                                    <a class="link text-decoration-none text-black d-block p-1 small"
                                         href="/collections/onsale/flahsale" title="Sản phẩm khuyến mãi">Sản
                                         phẩm
                                         khuyến mãi</a>
@@ -108,23 +108,23 @@
                             </h3>
                             <ul class="list-menu toggle-mn p-0 m-0">
                                 <li class="li_menu list-unstyled">
-                                    <a class="link text-decoration-none text-black d-block" href="/pages/about-us"
-                                        title="Giới thiệu">Giới thiệu</a>
+                                    <a class="link text-decoration-none text-black d-block p-1 small"
+                                        href="/pages/about-us" title="Giới thiệu">Giới thiệu</a>
                                 </li>
                                 <li class="li_menu list-unstyled">
-                                    <a class="link text-decoration-none text-black d-block"
+                                    <a class="link text-decoration-none text-black d-block p-1 small"
                                         href="/pages/chinh-sach-doi-tra" title="Chính sách đổi trả">Chính
                                         sách đổi
                                         trả</a>
                                 </li>
                                 <li class="li_menu list-unstyled">
-                                    <a class="link text-decoration-none text-black d-block"
+                                    <a class="link text-decoration-none text-black d-block p-1 small"
                                         href="/pages/chinh-sach-bao-mat" title="Chính sách bảo mật">Chính
                                         sách bảo
                                         mật</a>
                                 </li>
                                 <li class="li_menu list-unstyled">
-                                    <a class="link text-decoration-none text-black d-block"
+                                    <a class="link text-decoration-none text-black d-block p-1 small"
                                         href="/pages/dieu-khoan-dich-vu" title="Điều khoản dịch vụ">Điều
                                         khoản dịch
                                         vụ</a>
@@ -218,8 +218,6 @@
                             </ul>
                         </div>
                     </div>
-
-
                 </div>
                 <div class="row">
 

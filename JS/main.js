@@ -1,3 +1,13 @@
+// Lấy phần tử nút "X" và banner
+const closeBtn = document.querySelector('.close-btn');
+const topBanner = document.getElementById('top-banner');
+
+// Thêm sự kiện click cho nút "X"
+closeBtn.addEventListener('click', () => {
+    // Ẩn banner
+    topBanner.style.display = 'none';
+});
+
 const navList = document.getElementById('navbarContent'); // Chọn thanh điều hướng
 const navItems = Array.from(navList.getElementsByClassName('nav-item')); // Lấy tất cả các mục trong nav
 

@@ -18,7 +18,7 @@
                 <h1 class="border-bottom pb-3 mb-4">Tư vấn quà tết</h1>
                 <div id="questions-list" class="accordion" id="faqAccordion">
                     <div class="accordion-item">
-                        <h2 class="accordion-header" id="headingOne">
+                        <h2 class="accordion-header" id="headingOne">#collapseFive
                             <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                                 1. Quá trình tư vấn và thiết kế quà tặng của EGA như thế nào?

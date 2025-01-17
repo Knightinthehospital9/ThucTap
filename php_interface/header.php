@@ -1,15 +1,16 @@
-<div class="top-banner position-relative" style="background: #7c1c17; padding: 10px;">
+<div class="top-banner position-relative" id="top-banner" style="background: #7c1c17; padding: 10px;">
     <div class="container text-center px-0">
-        <a style="color: #ffffff" class="position-relative d-block text-decoration-none fw-bold" href="/collections/all"
-            title="FREESHIP VỚI ĐƠN HÀNG TỪ 500K">
+        <a style="color: #ffffff" class="position-relative d-block text-decoration-none fw-bold"
+            href="/TT2/WEB_quatet/collections/all.php" title="FREESHIP VỚI ĐƠN HÀNG TỪ 500K">
             FREESHIP VỚI ĐƠN HÀNG TỪ 500K
         </a>
-        <button type="button" class="close-btn" aria-label="Close"
+        <button type="button" class="close-btn " aria-label="Close"
             style="position: absolute; top: 10px; right: 10px; z-index: 9; background: transparent; border: none; color: #ffffff;">
             <span aria-hidden="true">×</span>
         </button>
     </div>
 </div>
+
 
 <!-- Navbar (Header 2) -->
 
